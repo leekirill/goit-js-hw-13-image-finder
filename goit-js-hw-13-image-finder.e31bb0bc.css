@@ -155,3 +155,7 @@ body {
 .button > .spinner.is-hidden {
   display: none;
 }
+
+.basicLightbox__placeholder img {
+  border-radius: 10px;
+}
